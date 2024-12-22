@@ -1,1 +1,13 @@
 # sprint-review-and-retrospective
+
+- How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+
+Getting the user needs is one of the most important aspects of a program. No matter how well the project goes, if it doesn't capture the user needs, it is essentially useless from the user's perspective. It's important to get the requirements from the user up front so they can be planned for properly. User stories help in this because they lay out the user's requirements in plain language. They include acceptance criteria that can serve as a check list of requirements, so teams can make sure that all requirements are met. These user stories are put into a Product Backlog by the Product Owner. For each sprint, user stories are pulled from the Product Backlog, and it is the job of the team to complete the user stories based on their acceptance criteria.
+
+- How do I approach developing programs? What Agile processes do I hope to incorporate into my future developement.
+
+Previously, I would meticulously plan out my projects, spending a huge amount of time up front getting all my ducks in a row. Inevitably, requirements would change and plans would change. I'd then spend more time updating my documentation to match our new requirements. I realized that I was spending way more time planning and documenting than actually developing. So may projects were started, but only a handful got finished. Agile has taught me that being flexible and adaptable is more important than rigidly holding to a meticulously crafted plan, like the waterfall approach. In the future, I want to incorporate an Agile methodology into my projects. I love the idea of sprints. I like how they're iterative short bursts of work that are planned out individually and reviewed, allowing each iteration to be improved upon for the next one. Agile handles changes gracefully because they're caught early and incorporated into the project quickly.
+
+- What does it mean to be a good team member in software development?
+
+To me, the most important aspect of working in a team environment, Agile or otherwise, is communication. And more specifically, I think listening is the most important. Not only is it important that your voice is heard on the team, it's important that you're hearing the voices of others too. Being a good team member means listening to others, being self-accountable, autonomous, and efficient with the use of your time. Agile facilitates all of these principles and more with sprint events like daily standups, sprint planning, sprint reviews, and retrospectives. These events let the team communicate effective and efficiently, supporting each other along the way.
